@@ -15,7 +15,9 @@ You do a little `CTRL + S` and you save that puppy as `.env` at the root directo
 
 You go to tell your team about your project, our protagonist, Joel, starts poking around, and the goody-two-shoes sees your `.env` file and sees that password plain as day.
 
-![narc.gif](https://github.com/newvicx/winencrypt/blob/master/docs/img/narc.gif?raw=true)
+<p align="center">
+	<img src="https://github.com/newvicx/winencrypt/blob/master/docs/img/narc.gif?raw=true" alt='narc'>
+</p>
 
 The narc rats you out to InfoSec...
 
@@ -55,7 +57,9 @@ Decrypting from the command line isn't that helpful though. What we want is to d
 
 So what do we do?
 
-![king.gif](https://github.com/newvicx/winencrypt/blob/master/docs/img/king.gif?raw=true)
+<p align="center">
+	<img src="https://github.com/newvicx/winencrypt/blob/master/docs/img/king.gif?raw=true" alt='king'>
+</p>
 
 ### ...Enter Pydantic
 
