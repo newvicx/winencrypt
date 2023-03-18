@@ -36,9 +36,9 @@ dynamic = ["readme", "version"]
 winencrypt = "winencrypt:winencrypt"
 
 [project.urls]
-Changelog = "https://github.com/encode/httpx/blob/master/CHANGELOG.md"
-Homepage = "https://github.com/encode/httpx"
-Source = "https://github.com/encode/httpx"
+Changelog = "https://github.com/newvicx/winencrypt/blob/master/CHANGELOG.md"
+Homepage = "https://github.com/newvicx/winencrypt"
+Source = "https://github.com/newvicx/winencrypt"
 
 [tool.hatch.version]
 path = "winencrypt/__version__.py"
